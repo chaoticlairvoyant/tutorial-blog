@@ -12,6 +12,15 @@ body {
     /*border: solid 1px red;*/
 }
 
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
 * {
     box-sizing: border-box;
 }
